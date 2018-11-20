@@ -1,0 +1,10 @@
+﻿  disk.c
+disk.c(5): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+disk.c(21): warning C4101: “i”: 未引用的局部变量
+  正在生成代码
+  2 of 9 functions (22.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  disk.vcxproj -> E:\C\disk\x64\Release\disk.exe
+  disk.vcxproj -> E:\C\disk\x64\Release\disk.pdb (Full PDB)
